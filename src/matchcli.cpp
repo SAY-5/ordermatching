@@ -3,6 +3,7 @@
 // take input from a binary message bus; this is a sanity tool only.
 
 #include <cstdio>
+#include <string>
 #include <vector>
 
 #include "om/orderbook.hpp"
