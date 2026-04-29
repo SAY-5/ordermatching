@@ -5,7 +5,9 @@
 #pragma once
 #include <cstdio>
 #include <cstdlib>
+#include <exception>
 #include <functional>
+#include <stdexcept>
 #include <string>
 #include <vector>
 
